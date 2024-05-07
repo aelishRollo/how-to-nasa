@@ -270,7 +270,7 @@ Begin by getting the pictures from the NASA server using the EPIC API. The proce
 ```markdown
 var req = new XMLHttpRequest();
 var url = "https://api.nasa.gov/EPIC/api/natural/date/2016-07-05?api_key=";
-var api_key = "5B6oJsSCQyekXZvNOKpsUhRPl1e7FHqjIAyHpybk";
+var api_key = "DEMO_KEY";
 var img_url =  "https://epic.gsfc.nasa.gov/archive/natural/2016/07/05/png/";
 var img_type = ".png";
 
